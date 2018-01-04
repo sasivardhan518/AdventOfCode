@@ -1,0 +1,6 @@
+D:\MM Projects\ProjectEuler184\ProjectEuler184\bin\Debug\ProjectEuler184.exe.config
+D:\MM Projects\ProjectEuler184\ProjectEuler184\obj\Debug\ProjectEuler184.csprojResolveAssemblyReference.cache
+D:\MM Projects\ProjectEuler184\ProjectEuler184\bin\Debug\ProjectEuler184.exe
+D:\MM Projects\ProjectEuler184\ProjectEuler184\bin\Debug\ProjectEuler184.pdb
+D:\MM Projects\ProjectEuler184\ProjectEuler184\obj\Debug\ProjectEuler184.exe
+D:\MM Projects\ProjectEuler184\ProjectEuler184\obj\Debug\ProjectEuler184.pdb

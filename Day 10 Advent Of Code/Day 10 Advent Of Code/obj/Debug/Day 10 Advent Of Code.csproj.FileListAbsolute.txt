@@ -1,0 +1,6 @@
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\bin\Debug\Day 10 Advent Of Code.exe.config
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\bin\Debug\Day 10 Advent Of Code.exe
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\bin\Debug\Day 10 Advent Of Code.pdb
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\obj\Debug\Day 10 Advent Of Code.csprojResolveAssemblyReference.cache
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\obj\Debug\Day 10 Advent Of Code.exe
+D:\MM Projects\Day 10 Advent Of Code\Day 10 Advent Of Code\obj\Debug\Day 10 Advent Of Code.pdb

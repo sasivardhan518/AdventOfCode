@@ -1,0 +1,6 @@
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\bin\Debug\DAY8_AdventOfCode.exe.config
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\bin\Debug\DAY8_AdventOfCode.exe
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\bin\Debug\DAY8_AdventOfCode.pdb
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\obj\Debug\DAY8_AdventOfCode.csprojResolveAssemblyReference.cache
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\obj\Debug\DAY8_AdventOfCode.exe
+D:\MM Projects\DAY8_AdventOfCode\DAY8_AdventOfCode\obj\Debug\DAY8_AdventOfCode.pdb

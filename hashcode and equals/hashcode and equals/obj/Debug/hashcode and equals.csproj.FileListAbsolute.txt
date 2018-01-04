@@ -1,0 +1,6 @@
+D:\MM Projects\hashcode and equals\hashcode and equals\bin\Debug\hashcode and equals.exe.config
+D:\MM Projects\hashcode and equals\hashcode and equals\bin\Debug\hashcode and equals.exe
+D:\MM Projects\hashcode and equals\hashcode and equals\bin\Debug\hashcode and equals.pdb
+D:\MM Projects\hashcode and equals\hashcode and equals\obj\Debug\hashcode and equals.csprojResolveAssemblyReference.cache
+D:\MM Projects\hashcode and equals\hashcode and equals\obj\Debug\hashcode and equals.exe
+D:\MM Projects\hashcode and equals\hashcode and equals\obj\Debug\hashcode and equals.pdb

@@ -1,0 +1,6 @@
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\bin\Debug\Advent_Of_Code_Day_17.exe.config
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\bin\Debug\Advent_Of_Code_Day_17.exe
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\bin\Debug\Advent_Of_Code_Day_17.pdb
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\obj\Debug\Advent_Of_Code_Day_17.csprojResolveAssemblyReference.cache
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\obj\Debug\Advent_Of_Code_Day_17.exe
+D:\MM Projects\Advent_Of_Code_Day_17\Advent_Of_Code_Day_17\obj\Debug\Advent_Of_Code_Day_17.pdb

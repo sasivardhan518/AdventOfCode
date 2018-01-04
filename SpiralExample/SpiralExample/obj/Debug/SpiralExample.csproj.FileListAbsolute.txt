@@ -1,0 +1,6 @@
+D:\MM Projects\SpiralExample\SpiralExample\bin\Debug\SpiralExample.exe.config
+D:\MM Projects\SpiralExample\SpiralExample\bin\Debug\SpiralExample.exe
+D:\MM Projects\SpiralExample\SpiralExample\bin\Debug\SpiralExample.pdb
+D:\MM Projects\SpiralExample\SpiralExample\obj\Debug\SpiralExample.csprojResolveAssemblyReference.cache
+D:\MM Projects\SpiralExample\SpiralExample\obj\Debug\SpiralExample.exe
+D:\MM Projects\SpiralExample\SpiralExample\obj\Debug\SpiralExample.pdb

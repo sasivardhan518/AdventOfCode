@@ -1,0 +1,6 @@
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\bin\Debug\AdeventOfCode_Day9.exe.config
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\bin\Debug\AdeventOfCode_Day9.exe
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\bin\Debug\AdeventOfCode_Day9.pdb
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\obj\Debug\AdeventOfCode_Day9.csprojResolveAssemblyReference.cache
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\obj\Debug\AdeventOfCode_Day9.exe
+D:\MM Projects\AdeventOfCode_Day9\AdeventOfCode_Day9\obj\Debug\AdeventOfCode_Day9.pdb

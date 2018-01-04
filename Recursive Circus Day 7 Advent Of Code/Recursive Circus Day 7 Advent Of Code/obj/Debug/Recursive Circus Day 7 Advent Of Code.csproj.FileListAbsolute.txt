@@ -1,0 +1,6 @@
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\bin\Debug\Recursive Circus Day 7 Advent Of Code.exe.config
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\bin\Debug\Recursive Circus Day 7 Advent Of Code.exe
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\bin\Debug\Recursive Circus Day 7 Advent Of Code.pdb
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\obj\Debug\Recursive Circus Day 7 Advent Of Code.csprojResolveAssemblyReference.cache
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\obj\Debug\Recursive Circus Day 7 Advent Of Code.exe
+D:\MM Projects\Recursive Circus Day 7 Advent Of Code\Recursive Circus Day 7 Advent Of Code\obj\Debug\Recursive Circus Day 7 Advent Of Code.pdb

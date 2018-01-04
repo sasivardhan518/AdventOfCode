@@ -1,0 +1,9 @@
+D:\MM Projects\MMUserCreation\MMUserCreation\bin\Release\MMUserCreation.exe.config
+D:\MM Projects\MMUserCreation\MMUserCreation\bin\Release\MMUserCreation.exe
+D:\MM Projects\MMUserCreation\MMUserCreation\bin\Release\MMUserCreation.pdb
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.AddUserForm.resources
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.Form1.resources
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.Properties.Resources.resources
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.csproj.GenerateResource.Cache
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.exe
+D:\MM Projects\MMUserCreation\MMUserCreation\obj\Release\MMUserCreation.pdb

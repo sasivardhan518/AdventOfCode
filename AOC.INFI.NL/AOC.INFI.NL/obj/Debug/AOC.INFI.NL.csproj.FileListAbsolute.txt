@@ -1,0 +1,6 @@
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\bin\Debug\AOC.INFI.NL.exe.config
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\bin\Debug\AOC.INFI.NL.exe
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\bin\Debug\AOC.INFI.NL.pdb
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\obj\Debug\AOC.INFI.NL.csprojResolveAssemblyReference.cache
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\obj\Debug\AOC.INFI.NL.exe
+D:\MM Projects\AOC.INFI.NL\AOC.INFI.NL\obj\Debug\AOC.INFI.NL.pdb

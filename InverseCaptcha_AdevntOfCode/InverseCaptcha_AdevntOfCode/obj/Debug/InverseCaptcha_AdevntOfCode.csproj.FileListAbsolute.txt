@@ -1,0 +1,6 @@
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\bin\Debug\InverseCaptcha_AdevntOfCode.exe.config
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\bin\Debug\InverseCaptcha_AdevntOfCode.exe
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\bin\Debug\InverseCaptcha_AdevntOfCode.pdb
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\obj\Debug\InverseCaptcha_AdevntOfCode.csprojResolveAssemblyReference.cache
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\obj\Debug\InverseCaptcha_AdevntOfCode.exe
+D:\MM Projects\InverseCaptcha_AdevntOfCode\InverseCaptcha_AdevntOfCode\obj\Debug\InverseCaptcha_AdevntOfCode.pdb

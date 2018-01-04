@@ -1,0 +1,6 @@
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\bin\Debug\SpiralProblemLevel2.exe.config
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\bin\Debug\SpiralProblemLevel2.exe
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\bin\Debug\SpiralProblemLevel2.pdb
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\obj\Debug\SpiralProblemLevel2.csprojResolveAssemblyReference.cache
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\obj\Debug\SpiralProblemLevel2.exe
+D:\MM Projects\SpiralProblemLevel2\SpiralProblemLevel2\obj\Debug\SpiralProblemLevel2.pdb
